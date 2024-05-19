@@ -69,8 +69,8 @@ local palette = {
 local components = {
   -- main
   none = 'NONE',
-  bg = '#080c10',
-  fg = '#b5bdc5',
+  bg = '#000000',
+  fg = '#ffffff',
 
   -- miscellaneous
   border = '#393939',
