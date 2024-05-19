@@ -1,5 +1,5 @@
 # :crescent_moon: Midnight
-
+Fork of the wonderful [Midnight Neovim Theme](https://github.com/dasupradyumna/midnight.nvim)
 A modern black [neovim](https://github.com/neovim/neovim) theme written in Lua, with a strong focus
 on maintaining a comfortable level of color contrast for a pleasant visual experience while coding.
 
